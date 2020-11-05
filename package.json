@@ -1,0 +1,21 @@
+{
+    "name": "toychest",
+    "displayName": "toychest",
+    "description": "toychest theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Toychest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Toychest-color-theme.json"
+            }
+        ]
+    }
+}
